@@ -2,7 +2,7 @@ Airin Core
 =================================================
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sambuca911/greenstrawberrycoin/master/doc/bitcoin_logo_doxygen.png" width="256" />
+  <img src="https://raw.githubusercontent.com/airincoin/airin/master/doc/bitcoin_logo_doxygen.png" width="256" />
 </p>
 
 
@@ -18,7 +18,7 @@ The Airin development team is active, and goal oriented.  The community is able 
 
 - Website: https://airin.cc/
 - White paper: https://airin.cc/Airin_white_paper_v_1_0_1.pdf
-- Explorer: http://explorer.airin.cc/
+- Explorer: http://explore.airin.cc/
 - Twitter: https://twitter.com/airincoin
 - Instagram: https://www.instagram.com/airincoin/
 - Github: https://github.com/airincoin
