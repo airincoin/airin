@@ -1,7 +1,7 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=BitcoinGreen
-Comment=BitcoinGreen P2P Cryptocurrency
+Name=Airin
+Comment=Airin P2P Cryptocurrency
 Exec=airin-qt %u
 Terminal=false
 Type=Application

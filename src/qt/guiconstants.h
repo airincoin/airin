@@ -51,7 +51,7 @@ static const int MAX_URI_LENGTH = 255;
 #define SPINNER_FRAMES 35
 
 #define QAPP_ORG_NAME "Airin"
-#define QAPP_ORG_DOMAIN "savebitcoin.io"
+#define QAPP_ORG_DOMAIN "airin.cc"
 #define QAPP_APP_NAME_DEFAULT "Airin-Qt"
 #define QAPP_APP_NAME_TESTNET "Airin-Qt-testnet"
 

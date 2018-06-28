@@ -29,10 +29,10 @@
   <string>????</string>
 
   <key>CFBundleExecutable</key>
-  <string>BitcoinGreen-Qt</string>
+  <string>Airin-Qt</string>
 
   <key>CFBundleIdentifier</key>
-  <string>io.savebitcoin.BitcoinGreen-Qt</string>
+  <string>airin.cc.Airin-Qt</string>
 
   <key>CFBundleURLTypes</key>
   <array>
@@ -40,7 +40,7 @@
       <key>CFBundleTypeRole</key>
       <string>Editor</string>
       <key>CFBundleURLName</key>
-      <string>io.savebitcoin.BitcoinGreenPayment</string>
+      <string>airin.cc.AirinPayment</string>
       <key>CFBundleURLSchemes</key>
       <array>
         <string>airin</string>
@@ -52,7 +52,7 @@
   <array>
     <dict>
       <key>UTTypeIdentifier</key>
-      <string>io.savebitcoin.paymentrequest</string>
+      <string>airin.cc.paymentrequest</string>
       <key>UTTypeDescription</key>
       <string>Airin payment request</string>
       <key>UTTypeConformsTo</key>
@@ -78,7 +78,7 @@
       <string>Editor</string>
       <key>LSItemContentTypes</key>
       <array>
-        <string>io.savebitcoin.paymentrequest</string>
+        <string>airin.cc.paymentrequest</string>
       </array>
       <key>LSHandlerRank</key>
       <string>Owner</string>

@@ -137,7 +137,7 @@ I usually confirm that remote is on the correct block by issuing:
 
 ```airind getinfo```
 
-And compare with the official explorer at http://explorer.savebitcoin.io
+And compare with the official explorer at http://explorer.airin.cc
 
 ### Local
 

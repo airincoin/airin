@@ -55,6 +55,6 @@ To create a new language template, you will need to edit the languages manifest 
 **Note:** that the language translation file **must end in `.qm`** (the compiled extension), and not `.ts`.
 
 ### Questions and general assistance
-[Airin Discord](https://discord.savebitcoin.io).
+[Airin Discord](https://discord.gg/ShQuvk6).
 
 Announcements will be posted during application pre-releases to notify translators to check for updates.

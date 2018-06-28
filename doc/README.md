@@ -22,11 +22,11 @@ Unpack the files into a directory, and then run airin-qt.exe.
 
 ### OSX
 
-Drag BitcoinGreen-Qt to your applications folder, and then run BitcoinGreen-Qt.
+Drag Airin-Qt to your applications folder, and then run Airin-Qt.
 
 ### Need Help?
 
-* Join our Discord server [Discord Server](https://discord.savebitcoin.io)
+* Join our Discord server [Discord Server](https://discord.gg/ShQuvk6)
 
 Building
 ---------------------
